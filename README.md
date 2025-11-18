@@ -34,28 +34,27 @@ This repository contains the **top 5 ranked teams** and their work (Jupyter note
 
 ## 📂 Repository Structure
 
-\AI-Dragon-Path/
-│
+
+AI-Dragon-Path/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-│
 ├── notebooks/
 │ ├── team1_top_model.ipynb # Med Amine & Nour
 │ ├── team2_model.ipynb # Motaz & Rhayem
 │ ├── team3_model.ipynb # Chifa & Dorra
 │ ├── team4_model.ipynb # Wassim & Maram
 │ └── team5_model.ipynb # Rawya & Oumayma
-│
 ├── data/
 │ ├── train.csv
 │ ├── test.csv
 │ └── sample_submission.csv
-│
-├── submissions/
-│ ├── submission_team1.csv
-│ ├── submission_team2.csv
-│ └── submission_team3.csv
+└── submissions/
+├── submission_team1.csv
+├── submission_team2.csv
+└── submission_team3.csv
+
+Copy code
 
 
 

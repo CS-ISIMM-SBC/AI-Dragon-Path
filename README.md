@@ -32,7 +32,7 @@ This repository contains the **top 5 ranked teams** and their work (Jupyter note
 
 ---
 
-## 📂 Repository Structure
+### 📂 Repository Structure
 
 AI-Dragon-Path/
 ├── README.md
